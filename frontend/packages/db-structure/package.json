@@ -15,7 +15,7 @@
     "@ruby/prism": "1.2.0",
     "neverthrow": "8.1.1",
     "pg-query-emscripten": "5.1.0",
-    "valibot": "^1.0.0-beta.5",
+    "valibot": "^1.4.1",
     "zod": "3.24.1"
   },
   "devDependencies": {
@@ -26,7 +26,7 @@
     "json-refs": "3.0.15",
     "json-schema-to-zod": "2.6.0",
     "typescript": "5",
-    "vitest": "2.1.9"
+    "vitest": "3.2.6"
   },
   "scripts": {
     "build": "tsc && pnpm run cp:prism",

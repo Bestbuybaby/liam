@@ -8,7 +8,7 @@
     "@changesets/types": "6.0.0",
     "@turbo/gen": "2.1.2",
     "syncpack": "13.0.0",
-    "turbo": "2.1.2"
+    "turbo": "2.9.14"
   },
   "scripts": {
     "build": "turbo build",
